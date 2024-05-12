@@ -397,7 +397,7 @@
 
     /* Small Phone */
 
-        @media only screen and (min-height: 660px) {
+        @media only screen and (max-height: 700px) {
             
             /* Monitor HTML */
             
@@ -545,7 +545,7 @@
 
     /* Medium Phone */
   
-        @media only screen and (min-height: 800px) {
+        @media only screen and (max-height: 890px) {
 
         /* Header CSS - Start */
 
@@ -580,7 +580,7 @@
     
     /* Big Phone */
 
-        @media only screen and (min-height: 900px) {
+        @media only screen and (max-height: 1000px) {
             
             /* Header CSS - Start */
 
